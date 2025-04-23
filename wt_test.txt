@@ -1,0 +1,46 @@
+
+{'_studentID': '811389', '_lastName': 'ALBA', '_firstName': 'ANTHONY', '_winTasks': ['']}
+{'_studentID': '810827', '_lastName': 'BROOKINS', '_firstName': 'GEORGE', '_winTasks': ['']}
+{'_studentID': '821192', '_lastName': 'BROWN-WILLIAMS', '_firstName': 'ELIJAH', '_winTasks': ['']}
+{'_studentID': '810253', '_lastName': 'CHARLES', '_firstName': 'NEVAEH', '_winTasks': ['']}
+{'_studentID': '819289', '_lastName': 'CHAUDHARI', '_firstName': 'YUNIK', '_winTasks': ['']}
+{'_studentID': '814574', '_lastName': 'CRUZ CASTILLO', '_firstName': 'FERNANDA', '_winTasks': ['']}
+{'_studentID': '811535', '_lastName': 'DEMERS', '_firstName': 'DANIEL', '_winTasks': ['']}
+{'_studentID': '811348', '_lastName': 'ESCAMILLA-AISPURO', '_firstName': 'GASPAR', '_winTasks': ['']}
+{'_studentID': '815219', '_lastName': 'FAULKNER', '_firstName': 'ISAIAH', '_winTasks': ['']}
+{'_studentID': '818545', '_lastName': 'FREE', '_firstName': 'ROBERTO', '_winTasks': ['']}
+{'_studentID': '812615', '_lastName': 'FUNKHOUSER', '_firstName': 'MIA', '_winTasks': ['']}
+{'_studentID': '818252', '_lastName': 'GALLARDO RODRIGUEZ', '_firstName': 'AZUL', '_winTasks': ['']}
+{'_studentID': '811174', '_lastName': 'GRIFFIN', '_firstName': 'DANIKA', '_winTasks': ['']}
+{'_studentID': '821806', '_lastName': 'GUYTON', '_firstName': 'ZAMAR’RHEA', '_winTasks': ['']}
+{'_studentID': '818948', '_lastName': 'KOURI', '_firstName': 'SAMUEL', '_winTasks': ['']}
+{'_studentID': '817790', '_lastName': 'LEDESMA LOPEZ', '_firstName': 'SAUL', '_winTasks': ['']}
+{'_studentID': '821187', '_lastName': 'LEDESMA RODRIGUEZ', '_firstName': 'JONATHAN', '_winTasks': ['']}
+{'_studentID': '808821', '_lastName': 'MADSON', '_firstName': 'ANGELA', '_winTasks': ['']}
+{'_studentID': '819673', '_lastName': 'NAVARRO', '_firstName': 'SANTINO', '_winTasks': ['']}
+{'_studentID': '817867', '_lastName': 'PAIZ RAMIREZ', '_firstName': 'ALEX', '_winTasks': ['']}
+{'_studentID': '817054', '_lastName': 'REGALADO MESTIZO', '_firstName': 'DIEGO', '_winTasks': ['']}
+{'_studentID': '809023', '_lastName': 'SIGALA-PEREZ', '_firstName': 'HUMBERTO', '_winTasks': ['']}
+{'_studentID': '811557', '_lastName': 'VILLALOBOS ANDRADE', '_firstName': 'AYLIN', '_winTasks': ['']}
+{'_studentID': '818317', '_lastName': 'WAGONER', '_firstName': 'LILLIAN', '_winTasks': ['']}
+{'_studentID': '821286', '_lastName': 'ACEVEDO-CARINO', '_firstName': 'DULCE', '_winTasks': []}
+{'_studentID': '821014', '_lastName': 'BLAUFUSS', '_firstName': 'DANIEL', '_winTasks': []}
+{'_studentID': '812427', '_lastName': 'CASTLE', '_firstName': 'CAMDEN', '_winTasks': []}
+{'_studentID': '810636', '_lastName': 'CORTEZ-RODRIGUEZ', '_firstName': 'STEVEN', '_winTasks': []}
+{'_studentID': '810414', '_lastName': 'DANIELSON', '_firstName': 'SOPHIA', '_winTasks': []}
+{'_studentID': '812446', '_lastName': 'EMERY-SIMMONS', '_firstName': 'AUBREY', '_winTasks': []}
+{'_studentID': '808586', '_lastName': 'ESCORCIA', '_firstName': 'AMELIA', '_winTasks': []}
+{'_studentID': '813555', '_lastName': 'FLORES', '_firstName': 'KIMBERLY', '_winTasks': []}
+{'_studentID': '811027', '_lastName': 'FLOTT', '_firstName': 'HAYLIE', '_winTasks': []}
+{'_studentID': '810973', '_lastName': 'FUERTES GARCIA', '_firstName': 'JUSTIN', '_winTasks': []}
+{'_studentID': '809344', '_lastName': 'GRANDEL', '_firstName': 'GAGE', '_winTasks': []}
+{'_studentID': '816798', '_lastName': 'GRUHLKEY', '_firstName': 'LILLIE', '_winTasks': []}
+{'_studentID': '816156', '_lastName': 'HOLLIS', '_firstName': 'IZAAH', '_winTasks': []}
+{'_studentID': '812251', '_lastName': 'JACKSON-HARRINGTON', '_firstName': 'HORIZYNNE', '_winTasks': []}
+{'_studentID': '812511', '_lastName': 'MCQUEEN', '_firstName': 'MIKHAIL', '_winTasks': []}
+{'_studentID': '812211', '_lastName': 'PESANTEZ', '_firstName': 'NATASHA', '_winTasks': []}
+{'_studentID': '808993', '_lastName': 'REICH', '_firstName': 'OWEN', '_winTasks': []}
+{'_studentID': '812057', '_lastName': 'SHALLBERG', '_firstName': 'AMEERA', '_winTasks': []}
+{'_studentID': '820147', '_lastName': 'SUTTON', '_firstName': 'KENDRA', '_winTasks': []}
+{'_studentID': '817583', '_lastName': 'SWICK', '_firstName': 'GRACE', '_winTasks': []}
+{'_studentID': '812103', '_lastName': 'VAVRA', '_firstName': 'MICK', '_winTasks': []}
